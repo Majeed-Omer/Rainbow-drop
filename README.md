@@ -1,4 +1,4 @@
-# rainbow-drop
+# Rainbow-drop
 A beautiful color-matching puzzle game that combines Tetris-style gameplay with vibrant color matching mechanics.
 
 https://github.com/Majeed-Omer/rainbow-drop/blob/main/Screenshots/Screenshot1.PNG
@@ -85,7 +85,7 @@ Memory-efficient game state management
 No external dependencies = fast loading
 
 📁 Project Structure
-rainbow-drop/
+Rainbow-drop/
 ├── index.html              # Main game file
 ├── README.md               # This file
 ├── LICENSE                 # MIT License
@@ -106,12 +106,10 @@ Open a Pull Request
 👨‍💻 Author
 Majeed Omer
 
-GitHub: twom764@gmail.com
-LinkedIn: https://www.linkedin.com/in/majeed-omer-581275243/
-Website: 
+GitHub: @Majeed-Omer
+LinkedIn: Majeed Omer
+Email: majeedomer32@gmail.com
 
 ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub and share it with your friends!
-
-Show Image
 
