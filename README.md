@@ -2,7 +2,7 @@
 A beautiful color-matching puzzle game that combines Tetris-style gameplay with vibrant color matching mechanics.
 
 https://github.com/Majeed-Omer/rainbow-drop/blob/main/Screenshots/Screenshot1.PNG
-https://github.com/Majeed-Omer/rainbow-drop/blob/main/Screenshots/Screenshot2.PNGhttps://github.com/Majeed-Omer/rainbow-drop/blob/main/Screenshots/Screenshot2.PNG
+https://github.com/Majeed-Omer/rainbow-drop/blob/main/Screenshots/Screenshot2.PNG
 
 ✨ Features
 🎨 Beautiful Visual Design
