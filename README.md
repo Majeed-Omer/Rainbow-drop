@@ -52,8 +52,7 @@ cd chromafall
 
 # Open index.html in your browser
 open index.html
-# OR
-python -m http.server 8000  # Then visit http://localhost:8000
+
 🎮 Game Controls
 KeyAction← →Move piece left/right↓Drop piece fasterSpacebarRotate pieceStart ButtonBegin new gamePause ButtonPause/Resume gameReset ButtonReset current game
 🏆 Scoring System
