@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Match Puzzle</title>
+    <link rel="stylesheet" href="style.css"> 
+
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-header">
+            <h1>🎮 Color Match Puzzle</h1>
+            <div class="score-board">
+                <div>Score: <span id="score">0</span></div>
+                <div>Lines: <span id="lines">0</span></div>
+                <div>Level: <span id="level">1</span></div>
+            </div>
+        </div>
+
+        <div class="game-board">
+            <div id="grid" class="grid"></div>
+        </div>
+
+        <div class="next-piece">
+            <div>Next Piece:</div>
+            <div id="next-grid" class="next-grid"></div>
+        </div>
+
+        <div class="controls">
+            <button class="btn" onclick="startGame()" id="start-btn">Start Game</button>
+            <button class="btn" onclick="pauseGame()" id="pause-btn" disabled>Pause</button>
+            <button class="btn" onclick="resetGame()">Reset</button>
+        </div>
+
+        <div class="instructions">
+            <strong>Controls:</strong><br>
+            ← → Arrow keys: Move piece<br>
+            ↓ Arrow key: Drop faster<br>
+            Space: Rotate piece<br>
+            <br>
+            <strong>Goal:</strong> Match 3+ colors in a row to clear them!<br>
+            Special pieces (⭐) clear entire rows when matched!
+        </div>
+    </div>
+
+    <div class="game-over" id="game-over">
+        <div class="game-over-content">
+            <h2>Game Over!</h2>
+            <div id="final-score"></div>
+            <button class="btn" onclick="resetGame(); document.getElementById('game-over').style.display='none';">Play Again</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
