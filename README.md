@@ -110,8 +110,8 @@ Open a Pull Request
 Majeed Omer
 
 GitHub: @Majeed-Omer
-# LinkedIn: Majeed Omer
-# Email: majeedomer32@gmail.com
+LinkedIn: Majeed Omer
+Email: majeedomer32@gmail.com
 
 ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub and share it with your friends!
