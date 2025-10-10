@@ -107,9 +107,11 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 👨‍💻 Author
+
 Majeed Omer Majeed
 
 📬 Contacts
+
 GitHub: @Majeed-Omer
 
 LinkedIn: Majeed Omer
