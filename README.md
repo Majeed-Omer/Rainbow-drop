@@ -106,9 +106,11 @@ Commit your changes (git commit -m 'Add amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
+
 👨‍💻 Author
 
 Majeed Omer Majeed
+
 
 
 📬 Contacts
